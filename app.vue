@@ -1,5 +1,6 @@
 <template>
   <div>
-  Strona poświęcona jebaniu disa
+  Strona poświęcona jebaniu disajDJDJDJDJDJDJDJDJ
+  JD<br/>JD
   </div>
 </template>
