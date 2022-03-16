@@ -6,10 +6,23 @@ module.exports = {
     "./plugins/**/*.{js,ts}",
   ],
   theme: {
+    extend: {
+      fontFamily: {
+        'default': ['Yrsa',],
+      },
+    },
     colors: {
-      fajnyred: {
-        50: '#123456',
-      }
+      gray: {
+        300: '#323232',
+      },
+      accent: {
+        300: '#dc3b3a',
+      },
+      primary: {
+        300: '#34275d',
+      },
+      white: '#FFFFFF',
+
     }
   },
   plugins: [],
