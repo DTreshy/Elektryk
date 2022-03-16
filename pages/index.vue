@@ -1,6 +1,6 @@
 <template>
     <div class="flex">
-        <img src="/public/main_electric.svg" class=" main_picture" />
+        <img src="/main_electric.svg" class=" main_picture" />
         <div class=" lg:w-5/12 mt-36 lg:ml-8 lg:pr-8">
         <div class="flex justify-center lg:justify-start">
             <div class="inline-block text-accent-300 font-lg">
