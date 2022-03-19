@@ -17,8 +17,8 @@
                 Szukasz dobrego Elektryka w Toruniu i okolicach, 
                 który dzięki swojemu wieloletniemu doświadczeniu pomoże Ci w usunięciu usterek lub wykonaniu solidnej instalacji elektrycznej?
             </div>
-            <div class="hidden justify-center lg:justify-start">
-                <nuxt-link to="kontakt" class="lg:px-6 py-5 text-white bg-accent-300 w-52 text-xl font-bold rounded-lg text-center">
+            <div class=" justify-center lg:justify-start">
+                <nuxt-link to="kontakt" class="lg:px-6 py-5 text-white bg-accent-300 hover:bg-accent-400 transition-all ease-in-out w-52 text-xl font-bold rounded-lg text-center">
                     KONTAKT
                 </nuxt-link>
             </div>
