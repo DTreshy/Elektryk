@@ -8,12 +8,6 @@ export default defineNuxtConfig({
       lang: "pl"
     },
   },
-  buildModules: [
-    '@nuxtjs/google-analytics'
-  ],
-  googleAnalytics: {
-    id: process.env.GOOGLE_ANALYTICS_ID
-  },
   build: {
     postcss: {
       postcssOptions: {

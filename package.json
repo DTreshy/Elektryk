@@ -6,10 +6,11 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "@nuxtjs/google-analytics": "^2.4.0",
     "autoprefixer": "^10.4.4",
     "nuxt3": "^3.0.0-27460489.53fbca7",
     "postcss": "^8.4.12",
-    "tailwindcss": "^3.0.23"
+    "tailwindcss": "^3.0.23",
+    "vue": "^3.0.0-rc.11",
+    "vue-gtag-next": "^1.14.0"
   }
 }
