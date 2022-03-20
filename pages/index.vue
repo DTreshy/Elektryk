@@ -1,15 +1,15 @@
 <template>
     <div class="flex">
         <img src="/main_electric.svg" class=" main_picture" />
-        <div class=" lg:w-5/12 mt-36 lg:ml-8 lg:pr-8">
-        <div class="flex justify-center lg:justify-start">
-            <div class="inline-block text-accent-300 font-lg">
-                24/7
+        <div class=" lg:w-5/12 mt-44 lg:mt-36 lg:ml-8 lg:pr-8">
+            <div class="flex justify-center lg:justify-start">
+                <div class="inline-block text-accent-300 font-lg">
+                    24/7
+                </div>
+                <div class="inline-block lg:ml-6 ml-2 text-primary-300 font-lg">
+                    Usługi
+                </div>
             </div>
-            <div class="inline-block lg:ml-6 ml-2 text-primary-300 font-lg">
-                Usługi
-            </div>
-        </div>
             <div class="text-primary-300 font-lg text-center lg:text-left">
                 Elektryczne
             </div>
