@@ -13,7 +13,7 @@ module.exports = {
     },
     colors: {
       gray: {
-        300: '#323232',
+        100: '#b3b3b3',
       },
       accent: {
         300: '#dc3b3a',
@@ -23,6 +23,7 @@ module.exports = {
         300: '#34275d',
       },
       white: '#FFFFFF',
+      black: '#000000',
 
     }
   },
